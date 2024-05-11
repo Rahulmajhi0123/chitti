@@ -1,0 +1,6 @@
+{
+    "hello" :  "hello Boss",
+    "how are you" : [ "i am good boss, hope you are too"],
+    "thank you" : ["You're welcome boss", "No problem boss"],
+    "whats up" : ["Not much"]
+}
